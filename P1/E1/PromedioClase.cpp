@@ -3,9 +3,7 @@
 
 int main()
 {
-    printf("!Hola!\n");
+    printf("Promedio de la Clase");
     getch();
     return 0;
 }
-
-
