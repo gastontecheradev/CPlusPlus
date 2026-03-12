@@ -33,7 +33,7 @@ int main()
 
     printf("Ingrese la frase: ");
 
-    scanf("%c", frase[0]);
+    scanf("%c", &frase[0]);
     
     // Crear un array de caracteres con la frase ingresada
     // Crear la variable largo
